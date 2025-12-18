@@ -9,8 +9,9 @@ CSSI;2025;7;Unidade Urgência/Emergência;2688
 CSSI;2025;8;Unidade Urgência/Emergência;2855
 CSSI;2025;9;Unidade Urgência/Emergência;2771
 CSSI;2025;10;Unidade Urgência/Emergência;2664
+CSSI;2025;11;Unidade Urgência/Emergência;2484
 HAC;2025;10;UDC - Unidade de Decisão Clínica;248
-HJK;2025;10;Unidade Urgência-Emergência;1
+HAC;2025;11;UDC - Unidade de Decisão Clínica;410
 HRBJA;2025;1;UUE/HRB/CHB;2553
 HRBJA;2025;2;UUE/HRB/CHB;2372
 HRBJA;2025;3;UUE/HRB/CHB;2754
@@ -21,6 +22,7 @@ HRBJA;2025;7;UUE/HRB/CHB;3081
 HRBJA;2025;8;UUE/HRB/CHB;3114
 HRBJA;2025;9;UUE/HRB/CHB;3149
 HRBJA;2025;10;UUE/HRB/CHB;3133
+HRBJA;2025;11;UUE/HRB/CHB;2968
 HRJP;2025;1;Unidade de Decisão Clínica;4
 HRJP;2025;1;Unidade de Urgência - Maternidade;476
 HRJP;2025;2;Unidade de Decisão Clínica;3
@@ -39,6 +41,8 @@ HRJP;2025;9;Unidade de Decisão Clínica;1
 HRJP;2025;9;Unidade de Urgência - Maternidade;447
 HRJP;2025;10;Unidade de Decisão Clínica;9
 HRJP;2025;10;Unidade de Urgência - Maternidade;550
+HRJP;2025;11;Unidade de Decisão Clínica;7
+HRJP;2025;11;Unidade de Urgência - Maternidade;520
 IRS;2025;1;Unidade Urgência/Emergência;318
 IRS;2025;2;Unidade Urgência/Emergência;283
 IRS;2025;3;Unidade Urgência/Emergência;378
@@ -49,6 +53,7 @@ IRS;2025;7;Unidade Urgência/Emergência;322
 IRS;2025;8;Unidade Urgência/Emergência;326
 IRS;2025;9;Unidade Urgência/Emergência;343
 IRS;2025;10;Unidade Urgência/Emergência;343
+IRS;2025;11;Unidade Urgência/Emergência;298
 MOV;2025;1;Unidade Urgência/Emergência;1852
 MOV;2025;2;Unidade Urgência/Emergência;1702
 MOV;2025;3;Unidade Urgência/Emergência;1974
@@ -59,3 +64,4 @@ MOV;2025;7;Unidade Urgência/Emergência;1727
 MOV;2025;8;Unidade Urgência/Emergência;1761
 MOV;2025;9;Unidade Urgência/Emergência;1751
 MOV;2025;10;Unidade Urgência/Emergência;1838
+MOV;2025;11;Unidade Urgência/Emergência;1721
