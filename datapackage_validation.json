@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Consultas de urgência da rede FHEMIG",
         "stats": {
-          "hash": "5baea73dd53d1bf59b8e1b3505ba4a7a",
-          "bytes": 2954,
+          "hash": "795c3e78f40838c516578fb93b3436a7",
+          "bytes": 6358,
           "fields": 5,
-          "rows": 66
+          "rows": 142
         }
       },
-      "time": 0.012,
+      "time": 0.013,
       "scope": [
         "hash-count-error",
         "byte-count-error",
