@@ -1,4 +1,21 @@
 ﻿unidade;ano;mes;setor;consultas_urgencia
+CSSI;2023;8;Unidade Urgência/Emergência;1
+CSSI;2023;9;Unidade Urgência/Emergência;265
+CSSI;2023;10;Unidade Urgência/Emergência;2045
+CSSI;2023;11;Unidade Urgência/Emergência;2084
+CSSI;2023;12;Unidade Urgência/Emergência;2120
+CSSI;2024;1;Unidade Urgência/Emergência;2554
+CSSI;2024;2;Unidade Urgência/Emergência;3522
+CSSI;2024;3;Unidade Urgência/Emergência;3109
+CSSI;2024;4;Unidade Urgência/Emergência;3127
+CSSI;2024;5;Unidade Urgência/Emergência;3130
+CSSI;2024;6;Unidade Urgência/Emergência;2711
+CSSI;2024;7;Unidade Urgência/Emergência;2530
+CSSI;2024;8;Unidade Urgência/Emergência;2567
+CSSI;2024;9;Unidade Urgência/Emergência;2752
+CSSI;2024;10;Unidade Urgência/Emergência;2609
+CSSI;2024;11;Unidade Urgência/Emergência;2562
+CSSI;2024;12;Unidade Urgência/Emergência;2483
 CSSI;2025;1;Unidade Urgência/Emergência;2469
 CSSI;2025;2;Unidade Urgência/Emergência;2403
 CSSI;2025;3;Unidade Urgência/Emergência;2546
@@ -10,8 +27,17 @@ CSSI;2025;8;Unidade Urgência/Emergência;2855
 CSSI;2025;9;Unidade Urgência/Emergência;2771
 CSSI;2025;10;Unidade Urgência/Emergência;2664
 CSSI;2025;11;Unidade Urgência/Emergência;2484
-HAC;2025;10;UDC - Unidade de Decisão Clínica;248
+CSSI;2025;12;Unidade Urgência/Emergência;2638
+HAC;2025;10;UDC - Unidade de Decisão Clínica;249
 HAC;2025;11;UDC - Unidade de Decisão Clínica;410
+HAC;2025;12;UDC - Unidade de Decisão Clínica;383
+HRBJA;2024;6;UUE/HRB/CHB;443
+HRBJA;2024;7;UUE/HRB/CHB;2490
+HRBJA;2024;8;UUE/HRB/CHB;2376
+HRBJA;2024;9;UUE/HRB/CHB;2509
+HRBJA;2024;10;UUE/HRB/CHB;2562
+HRBJA;2024;11;UUE/HRB/CHB;2477
+HRBJA;2024;12;UUE/HRB/CHB;2600
 HRBJA;2025;1;UUE/HRB/CHB;2553
 HRBJA;2025;2;UUE/HRB/CHB;2372
 HRBJA;2025;3;UUE/HRB/CHB;2754
@@ -23,6 +49,12 @@ HRBJA;2025;8;UUE/HRB/CHB;3114
 HRBJA;2025;9;UUE/HRB/CHB;3149
 HRBJA;2025;10;UUE/HRB/CHB;3133
 HRBJA;2025;11;UUE/HRB/CHB;2968
+HRBJA;2025;12;UUE/HRB/CHB;3151
+HRJP;2024;10;Unidade de Urgência - Maternidade;1
+HRJP;2024;11;Unidade de Decisão Clínica;6
+HRJP;2024;11;Unidade de Urgência - Maternidade;330
+HRJP;2024;12;Unidade de Decisão Clínica;29
+HRJP;2024;12;Unidade de Urgência - Maternidade;383
 HRJP;2025;1;Unidade de Decisão Clínica;4
 HRJP;2025;1;Unidade de Urgência - Maternidade;476
 HRJP;2025;2;Unidade de Decisão Clínica;3
@@ -43,6 +75,27 @@ HRJP;2025;10;Unidade de Decisão Clínica;9
 HRJP;2025;10;Unidade de Urgência - Maternidade;550
 HRJP;2025;11;Unidade de Decisão Clínica;7
 HRJP;2025;11;Unidade de Urgência - Maternidade;520
+HRJP;2025;12;Unidade de Decisão Clínica;1
+HRJP;2025;12;Unidade de Urgência - Maternidade;522
+IRS;2023;5;Unidade Urgência/Emergência;2
+IRS;2023;6;Unidade Urgência/Emergência;7
+IRS;2023;8;Unidade Urgência/Emergência;359
+IRS;2023;9;Unidade Urgência/Emergência;388
+IRS;2023;10;Unidade Urgência/Emergência;403
+IRS;2023;11;Unidade Urgência/Emergência;360
+IRS;2023;12;Unidade Urgência/Emergência;350
+IRS;2024;1;Unidade Urgência/Emergência;407
+IRS;2024;2;Unidade Urgência/Emergência;377
+IRS;2024;3;Unidade Urgência/Emergência;422
+IRS;2024;4;Unidade Urgência/Emergência;379
+IRS;2024;5;Unidade Urgência/Emergência;387
+IRS;2024;6;Unidade Urgência/Emergência;347
+IRS;2024;7;Unidade Urgência/Emergência;363
+IRS;2024;8;Unidade Urgência/Emergência;302
+IRS;2024;9;Unidade Urgência/Emergência;333
+IRS;2024;10;Unidade Urgência/Emergência;367
+IRS;2024;11;Unidade Urgência/Emergência;318
+IRS;2024;12;Unidade Urgência/Emergência;310
 IRS;2025;1;Unidade Urgência/Emergência;318
 IRS;2025;2;Unidade Urgência/Emergência;283
 IRS;2025;3;Unidade Urgência/Emergência;378
@@ -54,6 +107,28 @@ IRS;2025;8;Unidade Urgência/Emergência;326
 IRS;2025;9;Unidade Urgência/Emergência;343
 IRS;2025;10;Unidade Urgência/Emergência;343
 IRS;2025;11;Unidade Urgência/Emergência;298
+IRS;2025;12;Unidade Urgência/Emergência;313
+MOV;2023;4;Unidade Urgência/Emergência;1358
+MOV;2023;5;Unidade Urgência/Emergência;1699
+MOV;2023;6;Unidade Urgência/Emergência;1601
+MOV;2023;7;Unidade Urgência/Emergência;1606
+MOV;2023;8;Unidade Urgência/Emergência;1830
+MOV;2023;9;Unidade Urgência/Emergência;1742
+MOV;2023;10;Unidade Urgência/Emergência;1866
+MOV;2023;11;Unidade Urgência/Emergência;1789
+MOV;2023;12;Unidade Urgência/Emergência;1682
+MOV;2024;1;Unidade Urgência/Emergência;1900
+MOV;2024;2;Unidade Urgência/Emergência;1895
+MOV;2024;3;Unidade Urgência/Emergência;1970
+MOV;2024;4;Unidade Urgência/Emergência;1792
+MOV;2024;5;Unidade Urgência/Emergência;1755
+MOV;2024;6;Unidade Urgência/Emergência;1473
+MOV;2024;7;Unidade Urgência/Emergência;1615
+MOV;2024;8;Unidade Urgência/Emergência;1600
+MOV;2024;9;Unidade Urgência/Emergência;1679
+MOV;2024;10;Unidade Urgência/Emergência;1672
+MOV;2024;11;Unidade Urgência/Emergência;1650
+MOV;2024;12;Unidade Urgência/Emergência;1587
 MOV;2025;1;Unidade Urgência/Emergência;1852
 MOV;2025;2;Unidade Urgência/Emergência;1702
 MOV;2025;3;Unidade Urgência/Emergência;1974
@@ -65,3 +140,4 @@ MOV;2025;8;Unidade Urgência/Emergência;1761
 MOV;2025;9;Unidade Urgência/Emergência;1751
 MOV;2025;10;Unidade Urgência/Emergência;1838
 MOV;2025;11;Unidade Urgência/Emergência;1721
+MOV;2025;12;Unidade Urgência/Emergência;1712
