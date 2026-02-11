@@ -30,4 +30,4 @@ resources:
           description: "Representam o atendimento imediato prestado a pacientes que procuram o serviço de saúde sem agendamento prévio, em decorrência de situações agudas, súbitas ou imprevistas, que exigem avaliação médica rápida para evitar agravamento do quadro clínico, aliviar sofrimento ou garantir estabilização inicial. Incluem-se nesse indicador os atendimentos realizados em pronto-socorro, unidades de pronto atendimento e portas hospitalares de urgência, independentemente do desfecho (alta, observação, encaminhamento ou internação)."
     scheme: file
     title: Consultas de urgência da rede FHEMIG
-title: Consultas de Urgência
+title: Consultas de Urgência - FHEMIG
