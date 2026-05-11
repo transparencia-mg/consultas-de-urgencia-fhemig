@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.158,
+  "time": 0.145,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Consultas de urgência da rede FHEMIG",
         "stats": {
-          "hash": "c0fa2601614c84761fe14e0925b2cd75",
-          "bytes": 405945,
+          "hash": "d8a39cef641dcc63d484390ace4ca93d",
+          "bytes": 408292,
           "fields": 5,
-          "rows": 8578
+          "rows": 8627
         }
       },
-      "time": 0.149,
+      "time": 0.136,
       "scope": [
         "hash-count-error",
         "byte-count-error",
