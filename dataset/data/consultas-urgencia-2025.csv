@@ -908,6 +908,15 @@ CSSFA;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;5
 CSSFA;2026;6;Unidade Urgência/Emergência;5
 CSSFA;2026;6;Unidade Urgência-Emergência;5
 CSSFA;2026;6;UUE/HRB/CHB;5
+CSSFA;2026;7;Pronto Atendimento;4
+CSSFA;2026;7;UDC - Unidade de Decisão Clínica;4
+CSSFA;2026;7;Unidade de Decisão Clinica;4
+CSSFA;2026;7;Unidade de Decisão Clínica;4
+CSSFA;2026;7;Unidade de Urgência - Maternidade;4
+CSSFA;2026;7;Unidade Urgência Emergência Ginecológica-Obstetrícia;4
+CSSFA;2026;7;Unidade Urgência/Emergência;4
+CSSFA;2026;7;Unidade Urgência-Emergência;4
+CSSFA;2026;7;UUE/HRB/CHB;4
 CSSFE;2019;1;Pronto Atendimento;43
 CSSFE;2019;1;UDC - Unidade de Decisão Clínica;43
 CSSFE;2019;1;Unidade de Decisão Clinica;43
@@ -1958,6 +1967,7 @@ CSSI;2026;3;Unidade Urgência/Emergência;2895
 CSSI;2026;4;Unidade Urgência/Emergência;2614
 CSSI;2026;5;Unidade Urgência/Emergência;2654
 CSSI;2026;6;Unidade Urgência/Emergência;2882
+CSSI;2026;7;Unidade Urgência/Emergência;2700
 HAC;2019;1;Pronto Atendimento;1712
 HAC;2019;1;UDC - Unidade de Decisão Clínica;1712
 HAC;2019;1;Unidade de Decisão Clinica;1712
@@ -2703,7 +2713,8 @@ HAC;2026;2;UDC - Unidade de Decisão Clínica;378
 HAC;2026;3;UDC - Unidade de Decisão Clínica;394
 HAC;2026;4;UDC - Unidade de Decisão Clínica;436
 HAC;2026;5;UDC - Unidade de Decisão Clínica;439
-HAC;2026;6;UDC - Unidade de Decisão Clínica;369
+HAC;2026;6;UDC - Unidade de Decisão Clínica;370
+HAC;2026;7;UDC - Unidade de Decisão Clínica;450
 HCM;2019;1;Pronto Atendimento;1
 HCM;2019;1;UDC - Unidade de Decisão Clínica;1
 HCM;2019;1;Unidade de Decisão Clinica;1
@@ -4342,24 +4353,33 @@ HIJPII;2026;4;Unidade Urgência Emergência Ginecológica-Obstetrícia;4442
 HIJPII;2026;4;Unidade Urgência/Emergência;4442
 HIJPII;2026;4;Unidade Urgência-Emergência;4442
 HIJPII;2026;4;UUE/HRB/CHB;4442
-HIJPII;2026;5;Pronto Atendimento;4129
-HIJPII;2026;5;UDC - Unidade de Decisão Clínica;4129
-HIJPII;2026;5;Unidade de Decisão Clinica;4129
-HIJPII;2026;5;Unidade de Decisão Clínica;4129
-HIJPII;2026;5;Unidade de Urgência - Maternidade;4129
-HIJPII;2026;5;Unidade Urgência Emergência Ginecológica-Obstetrícia;4129
-HIJPII;2026;5;Unidade Urgência/Emergência;4129
-HIJPII;2026;5;Unidade Urgência-Emergência;4129
-HIJPII;2026;5;UUE/HRB/CHB;4129
-HIJPII;2026;6;Pronto Atendimento;3736
-HIJPII;2026;6;UDC - Unidade de Decisão Clínica;3736
-HIJPII;2026;6;Unidade de Decisão Clinica;3736
-HIJPII;2026;6;Unidade de Decisão Clínica;3736
-HIJPII;2026;6;Unidade de Urgência - Maternidade;3736
-HIJPII;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;3736
-HIJPII;2026;6;Unidade Urgência/Emergência;3736
-HIJPII;2026;6;Unidade Urgência-Emergência;3736
-HIJPII;2026;6;UUE/HRB/CHB;3736
+HIJPII;2026;5;Pronto Atendimento;4128
+HIJPII;2026;5;UDC - Unidade de Decisão Clínica;4128
+HIJPII;2026;5;Unidade de Decisão Clinica;4128
+HIJPII;2026;5;Unidade de Decisão Clínica;4128
+HIJPII;2026;5;Unidade de Urgência - Maternidade;4128
+HIJPII;2026;5;Unidade Urgência Emergência Ginecológica-Obstetrícia;4128
+HIJPII;2026;5;Unidade Urgência/Emergência;4128
+HIJPII;2026;5;Unidade Urgência-Emergência;4128
+HIJPII;2026;5;UUE/HRB/CHB;4128
+HIJPII;2026;6;Pronto Atendimento;3734
+HIJPII;2026;6;UDC - Unidade de Decisão Clínica;3734
+HIJPII;2026;6;Unidade de Decisão Clinica;3734
+HIJPII;2026;6;Unidade de Decisão Clínica;3734
+HIJPII;2026;6;Unidade de Urgência - Maternidade;3734
+HIJPII;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;3734
+HIJPII;2026;6;Unidade Urgência/Emergência;3734
+HIJPII;2026;6;Unidade Urgência-Emergência;3734
+HIJPII;2026;6;UUE/HRB/CHB;3734
+HIJPII;2026;7;Pronto Atendimento;3497
+HIJPII;2026;7;UDC - Unidade de Decisão Clínica;3497
+HIJPII;2026;7;Unidade de Decisão Clinica;3497
+HIJPII;2026;7;Unidade de Decisão Clínica;3497
+HIJPII;2026;7;Unidade de Urgência - Maternidade;3497
+HIJPII;2026;7;Unidade Urgência Emergência Ginecológica-Obstetrícia;3497
+HIJPII;2026;7;Unidade Urgência/Emergência;3497
+HIJPII;2026;7;Unidade Urgência-Emergência;3497
+HIJPII;2026;7;UUE/HRB/CHB;3497
 HJK;2019;1;Pronto Atendimento;3515
 HJK;2019;1;UDC - Unidade de Decisão Clínica;3515
 HJK;2019;1;Unidade de Decisão Clinica;3515
@@ -5141,7 +5161,9 @@ HJK;2026;4;Unidade Urgência-Emergência;4644
 HJK;2026;5;Unidade Urgência Emergência Ginecológica-Obstetrícia;1176
 HJK;2026;5;Unidade Urgência-Emergência;4894
 HJK;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;1203
-HJK;2026;6;Unidade Urgência-Emergência;4886
+HJK;2026;6;Unidade Urgência-Emergência;4887
+HJK;2026;7;Unidade Urgência Emergência Ginecológica-Obstetrícia;1251
+HJK;2026;7;Unidade Urgência-Emergência;5148
 HJXXIII;2019;1;Pronto Atendimento;6465
 HJXXIII;2019;1;UDC - Unidade de Decisão Clínica;6465
 HJXXIII;2019;1;Unidade de Decisão Clinica;6465
@@ -5952,6 +5974,15 @@ HJXXIII;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;5999
 HJXXIII;2026;6;Unidade Urgência/Emergência;5999
 HJXXIII;2026;6;Unidade Urgência-Emergência;5999
 HJXXIII;2026;6;UUE/HRB/CHB;5999
+HJXXIII;2026;7;Pronto Atendimento;6345
+HJXXIII;2026;7;UDC - Unidade de Decisão Clínica;6345
+HJXXIII;2026;7;Unidade de Decisão Clinica;6345
+HJXXIII;2026;7;Unidade de Decisão Clínica;6345
+HJXXIII;2026;7;Unidade de Urgência - Maternidade;6345
+HJXXIII;2026;7;Unidade Urgência Emergência Ginecológica-Obstetrícia;6345
+HJXXIII;2026;7;Unidade Urgência/Emergência;6345
+HJXXIII;2026;7;Unidade Urgência-Emergência;6345
+HJXXIII;2026;7;UUE/HRB/CHB;6345
 HMAL;2019;2;Pronto Atendimento;3
 HMAL;2019;2;UDC - Unidade de Decisão Clínica;3
 HMAL;2019;2;Unidade de Decisão Clinica;3
@@ -6636,15 +6667,24 @@ HMAL;2026;5;Unidade Urgência Emergência Ginecológica-Obstetrícia;16
 HMAL;2026;5;Unidade Urgência/Emergência;16
 HMAL;2026;5;Unidade Urgência-Emergência;16
 HMAL;2026;5;UUE/HRB/CHB;16
-HMAL;2026;6;Pronto Atendimento;22
-HMAL;2026;6;UDC - Unidade de Decisão Clínica;22
-HMAL;2026;6;Unidade de Decisão Clinica;22
-HMAL;2026;6;Unidade de Decisão Clínica;22
-HMAL;2026;6;Unidade de Urgência - Maternidade;22
-HMAL;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;22
-HMAL;2026;6;Unidade Urgência/Emergência;22
-HMAL;2026;6;Unidade Urgência-Emergência;22
-HMAL;2026;6;UUE/HRB/CHB;22
+HMAL;2026;6;Pronto Atendimento;19
+HMAL;2026;6;UDC - Unidade de Decisão Clínica;19
+HMAL;2026;6;Unidade de Decisão Clinica;19
+HMAL;2026;6;Unidade de Decisão Clínica;19
+HMAL;2026;6;Unidade de Urgência - Maternidade;19
+HMAL;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;19
+HMAL;2026;6;Unidade Urgência/Emergência;19
+HMAL;2026;6;Unidade Urgência-Emergência;19
+HMAL;2026;6;UUE/HRB/CHB;19
+HMAL;2026;7;Pronto Atendimento;8
+HMAL;2026;7;UDC - Unidade de Decisão Clínica;8
+HMAL;2026;7;Unidade de Decisão Clinica;8
+HMAL;2026;7;Unidade de Decisão Clínica;8
+HMAL;2026;7;Unidade de Urgência - Maternidade;8
+HMAL;2026;7;Unidade Urgência Emergência Ginecológica-Obstetrícia;8
+HMAL;2026;7;Unidade Urgência/Emergência;8
+HMAL;2026;7;Unidade Urgência-Emergência;8
+HMAL;2026;7;UUE/HRB/CHB;8
 HRAD;2019;1;Pronto Atendimento;1025
 HRAD;2019;1;UDC - Unidade de Decisão Clínica;1025
 HRAD;2019;1;Unidade de Decisão Clinica;1025
@@ -7455,6 +7495,7 @@ HRAD;2026;6;Unidade Urgência Emergência Ginecológica-Obstetrícia;321
 HRAD;2026;6;Unidade Urgência/Emergência;321
 HRAD;2026;6;Unidade Urgência-Emergência;321
 HRAD;2026;6;UUE/HRB/CHB;321
+HRAD;2026;7;Unidade de Decisão Clinica;1106
 HRBJA;2019;1;Pronto Atendimento;49
 HRBJA;2019;1;UDC - Unidade de Decisão Clínica;49
 HRBJA;2019;1;Unidade de Decisão Clinica;49
@@ -8073,6 +8114,7 @@ HRBJA;2026;3;UUE/HRB/CHB;3582
 HRBJA;2026;4;UUE/HRB/CHB;3668
 HRBJA;2026;5;UUE/HRB/CHB;3395
 HRBJA;2026;6;UUE/HRB/CHB;3251
+HRBJA;2026;7;UUE/HRB/CHB;3552
 HRJP;2019;1;Pronto Atendimento;652
 HRJP;2019;1;UDC - Unidade de Decisão Clínica;652
 HRJP;2019;1;Unidade de Decisão Clinica;652
@@ -8748,6 +8790,8 @@ HRJP;2026;5;Unidade de Decisão Clínica;8
 HRJP;2026;5;Unidade de Urgência - Maternidade;543
 HRJP;2026;6;Unidade de Decisão Clínica;7
 HRJP;2026;6;Unidade de Urgência - Maternidade;576
+HRJP;2026;7;Unidade de Decisão Clínica;45
+HRJP;2026;7;Unidade de Urgência - Maternidade;460
 IRS;2019;1;Pronto Atendimento;317
 IRS;2019;1;UDC - Unidade de Decisão Clínica;317
 IRS;2019;1;Unidade de Decisão Clinica;317
@@ -9286,6 +9330,7 @@ IRS;2026;3;Unidade Urgência/Emergência;313
 IRS;2026;4;Unidade Urgência/Emergência;321
 IRS;2026;5;Unidade Urgência/Emergência;351
 IRS;2026;6;Unidade Urgência/Emergência;306
+IRS;2026;7;Unidade Urgência/Emergência;314
 MOV;2019;1;Pronto Atendimento;2073
 MOV;2019;1;UDC - Unidade de Decisão Clínica;2073
 MOV;2019;1;Unidade de Decisão Clinica;2073
@@ -9792,3 +9837,4 @@ MOV;2026;3;Unidade Urgência/Emergência;1877
 MOV;2026;4;Unidade Urgência/Emergência;1760
 MOV;2026;5;Unidade Urgência/Emergência;1646
 MOV;2026;6;Unidade Urgência/Emergência;1585
+MOV;2026;7;Unidade Urgência/Emergência;1815
